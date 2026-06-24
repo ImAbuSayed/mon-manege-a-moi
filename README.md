@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mon-manege-a-moi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Mon Manège À Moi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-manege-a-moi/) |
+| **Get License** | [Obtain a Music License for Mon Manège À Moi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-manege-a-moi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0f63f271303d7e43aea83666b71aefa1f560e224f11262dd7588c770f8162be2` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

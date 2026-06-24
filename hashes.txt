@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mon Manège À Moi
+
+This log tracks the cryptographic history and versioning for the song **Mon Manège À Moi** (mon-manege-a-moi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T19:48:05.354601 | `v1` | `0f63f271303d7e43aea83666b71aefa1f560e224f11262dd7588c770f8162be2` | `de24fbd9dff4f6d07f8f5e3d08d867924a9af4c02f7eaa4942300d10e8dbda73` | `2026-06-24_mon-manege-a-moi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
